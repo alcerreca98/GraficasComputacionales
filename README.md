@@ -17,7 +17,7 @@
 </ul>
 <p>
     El proyecto consta de renderizar una escena 3D mediante el uso de WebGL.
-    Esta API basada en OpenGLpermite renderizar en 2D o 3D usando canvas de HTML en los navegadores que la soportan.
+    Esta API basada en OpenGL permite renderizar en 2D o 3D usando canvas de HTML en los navegadores que la soportan.
     El programa constará de la base en HTML, con código de control en JavaScript y sombreado en GLSL (OpenGL Shading Language)
 <p>
 <p>
