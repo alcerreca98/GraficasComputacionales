@@ -1,0 +1,22 @@
+{
+  "name": "graficascomputacionales",
+  "version": "1.0.0",
+  "description": "A01194199 Lucía Cantú-Miller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciacantumiller/GraficasComputacionales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciacantumiller/GraficasComputacionales/issues"
+  },
+  "homepage": "https://github.com/luciacantumiller/GraficasComputacionales#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
