@@ -1,2 +1,2 @@
-# A01194199 - Gráficas Computacionales
+# Gráficas Computacionales
 A01194199 Lucía Cantú-Miller
