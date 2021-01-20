@@ -1,8 +1,8 @@
 # Gráficas Computacionales
 
-<h1>
+<h2>
     Proyecto Final
-</h1>
+</h2>
 
 <ul>
     <li>
@@ -31,7 +31,9 @@
     El reporte de cambios por entrega se verá documentado por este mismo medio.
 </h4>
 
-# Entrega 1
+<h3>
+    Entrega 1
+</h3>
 <p>
     Presentación descriptiva del proyecto, descripción de la escena y generación del código base para el proyecto en WebGL.
 </p>
