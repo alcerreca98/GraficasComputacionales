@@ -37,3 +37,28 @@
 <p>
     Presentación descriptiva del proyecto, descripción de la escena y generación del código base para el proyecto en WebGL.
 </p>
+
+<h3>
+    Entrega 2
+</h3>
+<p>
+    Avance con elementos básicos de la escena (sin texturas, sin iluminación y sin sombras).
+</p>
+
+
+<h2>
+    Set Up
+</h2>
+<p>
+    npm init
+</p>
+<p>
+    npm install express
+</p>
+<p>
+    node server.js
+</p>
+<p>
+    server - http://localhost:8000/
+</p>
+
